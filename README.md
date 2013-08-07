@@ -1,1 +1,1 @@
-nad development has moved to [Circonus Labs](https://github.com/circonus-labs/nad)
+Go see https://github.com/circonus-labs/nad.
